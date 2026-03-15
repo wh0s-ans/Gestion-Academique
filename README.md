@@ -11,13 +11,14 @@ Ce projet a été réalisé dans le cadre du **Mini-Projet IHM** (Interfaces Hom
 
 L'objectif principal est de démontrer la maîtrise des **interfaces Java** comme contrat de comportement entre les classes, ainsi que les principes fondamentaux de la **programmation orientée objet**.
 
-|-------------------------|------------------------------------------------------|
+| | |
+|---|---|
 | **Étudiant**            | Anass Bellagrid                                      |
 | **Filière**             | Génie Informatique — DUT 2ème année                  |
 | **Établissement**       | École Supérieure de Technologie Sidi Bennour (ESTSB) |
 | **Professeur**          | Mr Kamal El Hattab                                   |
 | **Année universitaire** | 2025 / 2026                                          |
-| **Date de rendu**       | 15 Mars 2026                                         |
+| **Date de rendu**       | 15 Mars 2026                                         ||
 
 
 ## 🖥️ Aperçu de l'Application
